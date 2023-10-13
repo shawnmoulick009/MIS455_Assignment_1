@@ -1,0 +1,32 @@
+h1{
+  color: blue;
+}
+.myclass1{
+  color: rgb(108, 136, 24);
+  font-size: 30px;
+}
+.intro{
+  display: flex;
+}
+.hellotext{
+  font-size: 80px;
+}
+.image1{
+  padding-left: 50px;
+  width: 200px;
+}
+.image2{
+  padding-right: 50px;
+  width: 250px;
+}
+.aboutme{
+  margin-top: 100px;
+  display: flex;
+}
+.mydetails{
+  width: 300px;
+}
+body{
+  margin-left: 60px;
+  margin-top: 60px;
+}
